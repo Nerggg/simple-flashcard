@@ -1,2 +1,6 @@
 QUESTIONS
+1 + 1
+2 + 2
 ANSWERS
+2
+4
